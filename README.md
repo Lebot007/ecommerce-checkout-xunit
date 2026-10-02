@@ -87,7 +87,7 @@ Passed!  - Failed: 0, Passed: 11, Skipped: 0, Total: 11 - EcommerceCheckout.Test
 ### Clonar e testar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/ecommerce-checkout-xunit.git
+git clone https://github.com/Lebot007/ecommerce-checkout-xunit.git
 cd ecommerce-checkout-xunit
 dotnet test
 ```
